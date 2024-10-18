@@ -84,3 +84,5 @@ Attribute Information
 10) bmi: body mass index
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
+****Weather data analysis (May 2023-June 2023)**
+    Weather data can be as unpredictable as a cat on a hot tin roof. But with the right analysis, we can uncover patterns and make predictions that are as reliable as a Swiss watch. In this notebook, I have dived into a weather dataset to explore the intricacies of climate data.
