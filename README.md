@@ -66,7 +66,8 @@ Precision, Recall, and F1 Score: Useful when dealing with class imbalance, these
 ROC-AUC Curve: Measures the trade-off between sensitivity and specificity.
 7. Model Tuning
 To improve model performance, techniques like cross-validation and hyperparameter tuning (using GridSearchCV or RandomizedSearchCV) are employed. This helps in finding the best model configuration.
-**Supervised Stroke Model
+
+****Supervised Stroke Model(April 2023-May 2023)**
 **- This project aims at predicting strokes for patients.According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
